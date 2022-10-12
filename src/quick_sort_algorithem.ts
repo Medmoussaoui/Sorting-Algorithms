@@ -43,7 +43,6 @@ function quicksort(items: number[], start = 0, end = -5) {
     return items;
 }
 
-
 console.log("--> Sort Using [ Quick Sort Algorithem ]");
 console.log("-->");
 const listItems = [9, 7, 15, 5, 18, 4, 12, 1];

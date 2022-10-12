@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node dist/quick_sort_algorithem.js",
-    "dev": "nodemon src/quick_sort_algorithem.ts",
+    "start": "node dist/radix_sort_algorithem.js",
+    "dev": "nodemon src/radix_sort_algorithem.ts",
+    "test": "nodemon src/test.ts",
     "build": "tsc -p ."
   },
   "author": "",
